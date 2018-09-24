@@ -1,6 +1,6 @@
 # 160205 - LEDitron scoreboard
 
-Software for the LEDitrion scoreboard
+Software for the LEDitron scoreboard
 
 ## Getting Started
 
