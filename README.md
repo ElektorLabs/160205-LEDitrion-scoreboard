@@ -1,4 +1,4 @@
-# 160205-  LEDitrion scoreboard
+# 160205 - LEDitron scoreboard
 
 Software for the LEDitrion scoreboard
 
